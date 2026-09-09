@@ -333,6 +333,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
   🔓 - Hourly news sentiment and typed market events for 30 crypto pairs, source links on every signal, a published hash for every hour of history; data tools need a free key.
+- [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
+  🔓 - Verify Polish companies by NIP/KRS/REGON, the Ministry of Finance VAT white list (with bank-account match), and EU VAT via VIES — straight from official government registers, no key or signup.
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
   🔐 - Your own credit cards in your AI: balances, utilization, best card for a purchase, and missed rewards, read only.
